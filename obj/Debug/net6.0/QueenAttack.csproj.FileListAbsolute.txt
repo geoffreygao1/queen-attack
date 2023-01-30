@@ -1,0 +1,15 @@
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/bin/Debug/net6.0/QueenAttack
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/bin/Debug/net6.0/QueenAttack.deps.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/bin/Debug/net6.0/QueenAttack.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/bin/Debug/net6.0/QueenAttack.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/bin/Debug/net6.0/QueenAttack.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.csproj.AssemblyReference.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.AssemblyInfoInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.AssemblyInfo.cs
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.csproj.CoreCompileInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/refint/QueenAttack.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/QueenAttack.genruntimeconfig.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/queen-attack/obj/Debug/net6.0/ref/QueenAttack.dll
